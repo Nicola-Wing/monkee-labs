@@ -1,0 +1,39 @@
+.section-our-clients {
+    padding: 8% 2%;
+}
+
+.section-our-clients-content {
+    padding: 8% 2% 0%;
+}
+
+.slider-title {
+    padding-bottom: 8%;
+}
+
+.carousel {
+    margin: 0% 10%;
+    padding: 0px 7%;
+}
+
+.carousel-cell {
+    margin-right: 40px;
+}
+
+.flickity-prev-next-button {
+    width: 24px;
+    height: 24px;
+    border-radius: 0%;
+}
+
+.flickity-button-icon {
+    display: none;
+}
+
+.flickity-prev-next-button.previous {
+    background: url("../../img/prewious-arrow.png") no-repeat;
+}
+
+.flickity-prev-next-button.next {
+    right: 0px;
+    background: url("../../img/next-arrow.png") no-repeat;
+}

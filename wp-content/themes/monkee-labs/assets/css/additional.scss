@@ -1,0 +1,166 @@
+@media (max-width: 1200px) {
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h3,
+  h3.uh-heading,
+  .col-info .contacts h3 {
+    font-size: 2.25rem;
+  }
+
+  h4,
+  #front-page-contact-form h4.form-heading {
+    font-size: 1.5rem;
+  }
+
+  .section-gut-content h5.cropped-h5-box {
+    font-size: 1.25rem;
+  }
+
+  .section-gut-content h6 {
+    font-size: 0.875rem !important;
+  }
+
+  .accordion-container .accordion-item h6 {
+    font-size: 1rem;
+  }
+
+  p,
+  input,
+  .section-gut-content p.recursors-description,
+  .section-gut-content .interna-single-block p,
+  .accordion-container .accordion-answer-container p {
+    font-size: 1rem;
+  }
+
+  p.uh-introduction,
+  #front-page-contact-form p {
+    font-size: 1.125rem;
+  }
+
+  .contacts a,
+  .footer-menu-items .menu-item a {
+    font-size: 1rem;
+  }
+
+  .front-page-cont-form-inputs input.submit-btn {
+    font-size: 0.875rem;
+  }
+
+  #menu-header-menu .menu-item a {
+    font-size: 1rem;
+  }
+
+  .btn span, .uh-btn span, a.uh-btn span {
+    font-size: 0.875rem;
+  }
+
+  .under-header-section {
+    height: 0px;
+  }
+
+  .under-header-section {
+    height: auto;
+  }
+
+}
+
+
+@media (max-width: 1090px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  h3, h3.uh-heading {
+    font-size: 2rem;
+  }
+
+  h4,
+  #front-page-contact-form h4.form-heading {
+    font-size: 1.25rem;
+  }
+
+  .section-gut-content h5.cropped-h5-box {
+    font-size: 1.125rem;
+  }
+
+  p,
+  input,
+  .section-gut-content p.recursors-description,
+  .section-gut-content .interna-single-block p,
+  .accordion-container .accordion-answer-container p {
+    font-size: 0.875rem;
+  }
+
+  p.uh-introduction,
+  #front-page-contact-form p {
+    font-size: 1rem;
+  }
+
+  .contacts a,
+  .contacts a.email,
+  .footer-menu-items .menu-item a {
+    font-size: 0.875rem;
+  }
+
+  .menu-header-menu-container #menu-header-menu .menu-item a {
+    font-size: 0.875rem;
+  }
+
+  a.btn span, .uh-btn span, a.uh-btn span {
+    font-size: 0.75rem;
+  }
+}
+
+
+@media screen and (max-width: 840px) {
+  h1 {
+    font-size: 1.25rem;
+  }
+
+  h3, h3.uh-heading {
+    font-size: 1.5rem;
+  }
+
+  h4,
+  #front-page-contact-form h4.form-heading {
+    font-size: 1.125rem;
+  }
+
+  .section-gut-content h5.cropped-h5-box {
+    font-size: 1rem;
+  }
+
+  .accordion-container .accordion-item h6 {
+    font-size: 0.875rem;
+  }
+
+  p, input
+  .section-gut-content p.recursors-description,
+  .section-gut-content .interna-single-block p,
+  .accordion-container .accordion-answer-container p {
+    font-size: 0.75rem;
+  }
+
+  p.uh-introduction,
+  #front-page-contact-form p,
+  .col-copy-rights .social-info p {
+    font-size: 0.875rem;
+  }
+
+  .menu-header-menu-container #menu-header-menu .menu-item a {
+    font-size: 0.75rem;
+  }
+
+  .under-header-section {
+    padding: 0;
+  }
+}
+
+@media (min-width: 1200px) {
+  .under-header-section {
+    height: 598px;
+  }
+}

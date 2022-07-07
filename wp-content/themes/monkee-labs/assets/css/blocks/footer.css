@@ -1,0 +1,179 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 11% 0.7% 0;
+    max-width: 1160px;
+    max-height: 329px;
+}
+
+img.footer-image {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    width: 36%;
+}
+
+.footer .col-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 2.5rem;
+    width: 100%;
+}
+
+.footer .col-info .contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 2.5rem;
+    max-width: 235px;
+}
+
+.contacts h3 {
+    font-family: 'Fredoka';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 120%;
+    color: #BCBBBD;
+}
+
+a.phone-number {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 120%;
+    color: #BCBBBD;
+}
+
+a.email {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 120%;
+    color: #BCBBBD;
+    margin: 0;
+}
+
+.col-footer-menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 1%;
+    gap: 2.5rem;
+    width: 100%;
+}
+
+.footer-menu-title {
+    width: 100%;
+}
+
+.footer-menu-title h4 {
+    text-align: left;
+}
+
+.footer-menu-content {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 1.25rem;
+    width: 100%;
+}
+
+.menu-footer-menu-container {
+    width: 100%;
+}
+
+.footer-menu-items {
+    width: 48%;
+    height: 4.25rem;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 1.25rem;
+
+
+}
+
+.footer-menu-items .menu-item {
+    height: 19px;
+    margin: 0;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    color: #0B1F3B;
+    width: 100%;
+    transition: opacity 0.2s ease;
+}
+
+.footer-menu-items .menu-item:hover {
+    opacity: 0.7;
+}
+
+/* CopyRights Section. */
+
+.copy-rights {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 1% 1.8%;
+}
+
+.col-copy-rights {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 2.5rem;
+    width: 100%;
+}
+
+.col-copy-rights hr {
+    width: 100%;
+    height: 0px;
+    border: 1px solid #777777;
+}
+
+.copy-rights .col-copy-rights:nth-child(2) hr {
+    width: 100%;
+}
+
+.social-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 1.5rem;
+    max-width: 484px;
+}
+
+.social-info img {
+    width: 57px;
+    height: 57px;
+}
+
+.social-info p {
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #333333;
+    width: 100%;
+}

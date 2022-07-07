@@ -1,0 +1,22 @@
+.rectangle.light-green {
+    background: rgba(7, 82, 105, 0.5);
+}
+
+.rectangle.dark-green {
+    background: rgba(11, 31, 59, 0.5);
+}
+
+.rectangle-dark-short {
+    background: rgba(0, 22, 28, 0.5);
+}
+
+.titulo {
+    background: #DFDFCE;
+}
+
+.carousel {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
