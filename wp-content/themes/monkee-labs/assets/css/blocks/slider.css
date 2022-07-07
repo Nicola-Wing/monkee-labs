@@ -1,18 +1,18 @@
 .section-our-clients {
-    padding: 8% 2%;
+    padding: 4% 2%;
 }
 
 .section-our-clients-content {
-    padding: 8% 2% 0%;
+    padding: 4% 2% 0;
 }
 
 .slider-title {
-    padding-bottom: 8%;
+    padding-bottom: 4%;
 }
 
 .carousel {
-    margin: 0% 10%;
-    padding: 0px 7%;
+    margin: 0 10%;
+    padding: 0 7%;
 }
 
 .carousel-cell {
@@ -22,7 +22,7 @@
 .flickity-prev-next-button {
     width: 24px;
     height: 24px;
-    border-radius: 0%;
+    border-radius: 0;
 }
 
 .flickity-button-icon {
@@ -34,6 +34,6 @@
 }
 
 .flickity-prev-next-button.next {
-    right: 0px;
+    right: 0;
     background: url("../../img/next-arrow.png") no-repeat;
 }
